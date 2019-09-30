@@ -2,4 +2,6 @@
 git add xx 把文件xx添加到暂存区了
 git commit -m 'xx' 提交文件'xx'为注释内容
 git status 查看仓库的状态
+1242346789900
+
 
